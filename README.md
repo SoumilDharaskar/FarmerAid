@@ -1,4 +1,4 @@
-# ECE452 - Farmer Aid 
+# Farmer Aid 
 
 FarmerAid is a mobile application engineered to transform inventory management for farmers. It offers an effective solution by integrating speech to text technology, providing a user-friendly platform that enables the simplification of processing, updating and tracking inventory. The application has an extensive range of features tailored to different farming scenarios.
 
